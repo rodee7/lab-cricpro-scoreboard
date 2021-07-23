@@ -14,6 +14,10 @@ table{
 	background: snow;
 	margin-left: 80px;
 }
+a{
+	text-decoration:none;
+	color: cornflowerblue;
+}
 #Cricpro{
 	width: 100px;
 	height: 30px;
@@ -46,13 +50,8 @@ table{
 #td31,#td41,#td51,#td61,#td71,#td81
 {
 padding-right:100px;
-text-decoration-style: none;
 }
 
-#dnb2{
-text-decoration:none;	
-color: lightskyblue;
-}
 #total2,#td92{
 	padding-left: 5px;
 }
