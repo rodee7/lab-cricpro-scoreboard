@@ -53,7 +53,7 @@ padding-right:100px;
 }
 
 #total2,#td92{
-	padding-left: 5px;
+	padding-left: 25px;
 }
 
 #td22,#td23,#td33,#td43,#td53,#td63,#td73,#td83,
@@ -62,13 +62,17 @@ padding-right:100px;
 #td26,#td36,#td46,#td56,#td66,#td76,#td86,
 #td37,#td47,#td57,#td67,#td77,#td87
 {
+	padding-left: 25px;
 	text-align: center;
 	}
 #td32,#td42,#td52,#td62,#td72,#td82{
 	color: grey;
 	}
 #td11,#td12,#td21,#td31,#td41,#td51,#td61,#td71,#td81,#td91,#td32,#td42,#td52,#td62,#td72,#td82,#total1,#dnb1{
-	padding-left: 10px;
+	padding-left: 20px;
+	}
+#td12,#td26,#td37,#td47,#td57,#td67,#td77,#td87	{
+	padding-right: 30px;
 }
 /* change the font family and spacing as per your project font */
 .footer{
