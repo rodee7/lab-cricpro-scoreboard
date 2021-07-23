@@ -1,16 +1,85 @@
 /* Type your code here */
+body{
+	font-family: Nunito Sans;
+	background-image: url(./assets/background-image1.png);
+	background-size: cover;
+	background-repeat: no-repeat;	
+}
 
+table{
+	border-collapse: collapse;
+	font-size: 17px;
+	width: 760px;
+	height: 360px;
+	background: snow;
+	margin-left: 80px;
+}
+#Cricpro{
+	width: 100px;
+	height: 30px;
+	}
+#div1{
+	text-align: right;
+	padding-top: 10px;
+	padding-right: 50px;
+}
+#div2{
+	font-size: 35px;
+	text-shadow: 2px 2px 4px grey;
+	padding-left: 80px;
+}	
+#div3{
+	color: grey;
+	padding-left: 80px;
+	font-size: 20px;
+}
+#tr1{
+	background-color: orangered;
+	color: white;
+	padding-top: 10x;
+	padding-bottom: 10px;
+	}
+#tr2,#tr3,#tr4,#tr5,#tr6,#tr7,#tr8,#tr9,#tr10,#tr11{
+	border-bottom: 1px solid lightgrey;
+	}	
 
+#td31,#td41,#td51,#td61,#td71,#td81
+{
+padding-right:100px;
+text-decoration-style: none;
+}
+
+#dnb2{
+text-decoration:none;	
+color: lightskyblue;
+}
+#total2,#td92{
+	padding-left: 5px;
+}
+
+#td22,#td23,#td33,#td43,#td53,#td63,#td73,#td83,
+#td24,#td34,#td44,#td54,#td64,#td74,#td84,
+#td25,#td35,#td45,#td55,#td65,#td75,#td85,
+#td26,#td36,#td46,#td56,#td66,#td76,#td86,
+#td37,#td47,#td57,#td67,#td77,#td87
+{
+	text-align: center;
+	}
+#td32,#td42,#td52,#td62,#td72,#td82{
+	color: grey;
+	}
+#td11,#td12,#td21,#td31,#td41,#td51,#td61,#td71,#td81,#td91,#td32,#td42,#td52,#td62,#td72,#td82,#total1,#dnb1{
+	padding-left: 10px;
+}
 /* change the font family and spacing as per your project font */
 .footer{
     display:flex;
     flex-direction: row;
     align-content: flex-end;
 	position: relative;
-	top: 750px;
+	top: 30px;
 	margin-left: 80px;
 	font-size: 18px;
 	font-family: Nunito Sans;
     font-style: normal;
-    
-}
+ }
